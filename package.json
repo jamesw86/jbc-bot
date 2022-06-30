@@ -1,0 +1,22 @@
+{
+  "name": "jbc-bot",
+  "version": "1.0.0",
+  "description": "JekyllBookClub bot... again...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesw86/jbc-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesw86/jbc-bot/issues"
+  },
+  "homepage": "https://github.com/jamesw86/jbc-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1"
+  }
+}
